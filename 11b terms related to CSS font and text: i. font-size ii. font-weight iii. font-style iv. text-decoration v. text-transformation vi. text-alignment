@@ -1,0 +1,25 @@
+<html>
+<head>
+<style>
+.font{
+font-family:Times;
+font-style:oblique;
+font-weight:900;
+font-size:65%;
+border:2px solid;
+}
+.text{
+text-align:center;
+text-decoration:overline;
+text-transform:capitalize;
+border:2px solid;
+}
+</style>
+</head>
+<body>
+<section class="font">
+This text is displayed with applied font properties. </section>
+<div class="text">
+This text is displayed with applied text properties. </div>
+</body>
+</html>
