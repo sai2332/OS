@@ -1,0 +1,19 @@
+Using Text as a Link
+<html>
+<head>
+<title>Linking to Aditya</title>
+</head>
+<body>
+<a href="https://www.aec.edu.in">Click the link to redirect to Aditya website</a></body>
+</html>
+
+Using Image as a Link
+Firsr Create a working directory and save an image for gallery with name gallery.jpg. <html>
+<head>
+<title>Image Link Demo</title>
+</head>
+<body>
+<p>To redirect to Aditya gallery click the image below:</p><br>
+<a href="https://www.aec.edu.in/?p=Gallery"><img src="Gallery.jpg" height="200" width="200"border="10"></a>
+</body>
+</html>
