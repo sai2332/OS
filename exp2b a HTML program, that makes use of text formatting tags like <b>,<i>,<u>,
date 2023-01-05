@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>Text Formatting Tags</title>
+</head>
+<body>
+<b>Body tag</b>
+<big>body tag contains some attributes such as bg color,bg etc.</big>
+<i>bg color</i>is used for setting the backgroud color of a webpage which tasks bgcolor nameor hexadecimal numbers such as <strong>#000000 to #FFFFFF</strong>
+<i>backgroud</i>attribute used for setting page as a bag for webpage and it will take thepathof the image which you can place as the bg image in the browser
+<tt>syntax body body <sub> bg color </sub=name<sup>#rrggbb</sup>backgroud="imgname">
+</tt>
+<pre>pre implementation</pre>
+</body>
+</html>
