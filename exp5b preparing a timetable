@@ -1,0 +1,89 @@
+<html>
+<head>
+<title>IT Time Table</title>
+</head>
+<body>
+<h1 align = "center"><b>ADITYA ENGINEERING COLLEGE</b></h1>
+<h3 align = "center">An Autonomous Institution</h3>
+<h4 align = "center">Approved by AICTE, Permanently Affiliated to JNTUK&AccreditedbyNBA, NAAC with 'A' Grade<br>Recognized by UGC under the section 2(f) and 12(B) of theUGCact 1956<br> Aditya Nagar ADB Road, Surampalem</h4>
+<h2 align = "center">DEPARTMENT OF INFORMATION TECHNOLOGY</h2>
+<h3 align = "center"><u>B.Tech III SEM TIME TABLE</u></h3>
+<table align = "center" border="2" cellspacing="0" cellpadding="7">
+<tr>
+<th rowspan="2">Day</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th></th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+</tr>
+<tr>
+<th>9:30-10:20</th>
+<th>10:20-11:10</th>
+<th>11:10-12:00</th>
+<th>12:00-12:50</th>
+<th>12:50-1:50</th>
+<th>1:50-2:40</th>
+<th>2:40-3:30</th>
+<th>3:30-4:20</th>
+</tr>
+<tr align="center">
+<th>MON</th>
+<td>SE<br>(BRSS)</td>
+<td>DM<br>(DVLP)</td>
+<td>OOP<br>(MRB)</td>
+<td>LUNCH</td>
+<td colspan="4">USP LAB</br>(SN/SS)</td>
+</tr>
+<tr align ="center">
+<th>TUE</th>
+<td>ADS<BR>(AW)</td>
+<td colspan="3">OOP LAB<br>(SS/GS)</td>
+<td rowspan="4"><b>LUNCH</b></td>
+<td>SE<br>(BRSS)</td>
+<td>OOP<br>(MRB)</td>
+<td>OS <br> (DC)</td>
+</tr>
+<tr align ="center">
+<th>WED</th>
+<td> ADS<br> (AW)</td>
+<td> OS<br> (DC)</td>
+<td> SE<br> (BRSS)</td>
+<td> DM<br> (DVLP)</td>
+<td colspan ="4">OS LAB<br> (DC/SN)</td>
+</tr>
+<tr align="center">
+<th> THU</th>
+<td> DM<br> (DVLP)</td>
+<td> ADS<br> (AW)</td>
+<td> SE<br> (BRSS)</td>
+<td> OOP<br> (MRB)</td>
+<td> OS<br> (DC)</td>
+<td> DM<br> (DCLP)</td>
+<td> ADS<br> (AW)</td>
+</tr>
+<tr align="center">
+<th> FRI</th>
+<td> SE<br> (BRSS)</td>
+<td> OS <br> (DC)</td>
+<td> OS<br> (DC)</td>
+<td> OOP<br> (MRB)</td>
+<td>ADS<br> (AW)</td>
+<td> ADS<br> (AW)</td>
+<td> DM<br> (DVLP)</td>
+</tr>
+<tr align="center">
+<th>MON</th>
+<td>DM<br>(DVLP)</td>
+<td>OS<br>(DC)</td>
+<td>OOP<br>(MRB)</td>
+<td>LUNCH</td>
+<td colspan="4">SKILL LAB<br>(SJ/GS)</td>
+</tr>
+<caption align ="bottom" style="color:red">by Srinu Vinay</a></caption>
+</table>
+</body>
+</html>
