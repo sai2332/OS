@@ -1,0 +1,30 @@
+<html>
+<head>
+<title>Table Creation</title>
+</head>
+<body>
+<table align="center" border="3" bgcolor="pink" frames="void" rules="all" cellpadding="8"cellspacing="8" height="10px" width="5pts">
+<caption align="center">Demo Table</caption><br>
+<tr align="center" valign="middle" bgcolor="green">
+<th>Col1</th>
+<th>Col2</th>
+<th>Col3</th>
+</tr>
+<tr>
+<td align="center" valign="top">1</td>
+<td align="center" valign="bottom">2</td>
+<td align="right" valign="middle">3</td>
+</tr>
+<tr>
+<td bgcolor="orange">4</td>
+<td bgcolor="orange">5</td>
+<td bgcolor="orange">6</td>
+</tr>
+<tr>
+<td colspan="2">7</td>
+<!--<td>8</td>-->
+<td>9</td>
+</tr>
+</table>
+</body>
+</html>
