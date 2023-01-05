@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>Block Formatting Tags</title>
+</head>
+<body>
+<h1 align="centre">surampalem</h1>
+<h2 align="left">Geography</h2>
+<p>The city is situated between the eastern ghats and the Bay of Bengal.The city coordinateslies between 17.704N and 83.2977E</p>
+<hr align="left" size="10" [nonshade]/>
+<h2 align="left">Transport</h2>
+<p>The city commutes prefer city buses and auto rickshaws as the primary mode of
+Transport,followed by two wheels and cars <br>Road and rail are preffered for long distances</p></body>
+</html>
