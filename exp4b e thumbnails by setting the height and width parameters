@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>Image Demo</title>
+</head>
+<body>
+<a href="my_image.jpg"><img src="my_image.jpg" height="100" width="100" alt="Somescenarie" border="10"></a>
+<a href="my_image2.jpg"><img src="my_image2.jpg" height="100" width="100" alt="Somescenarie" border="10"></a>
+<a href="my_image3.jpg"><img src="my_image3.jpg" height="100" width="100" alt="Somescenarie" border="10"></a>
+</body>
+</html>
