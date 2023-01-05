@@ -1,0 +1,39 @@
+Friend1.html
+<html>
+<head>
+<title>hello world 1</title>
+</head>
+<body>
+<p>NAME:freind</p>
+<p>ROLL NO:1235</p>
+<p>BRANCH:IT</p>
+<p>EMAIL:********@gmail.com</p>
+<p>PHONE NO:916***9165</p>
+</body>
+</html>
+Friend2.html
+<html>
+<head>
+<title>hello world 2</title>
+</head>
+<body>
+<p>NAME:friend 2</p>
+<p>ROLL NO:1221</p>
+<p>EMAil:*******@gmail.com</p>
+<p>984*****10</p>
+</body>
+</html>
+Main.html
+<html>
+<head>
+<title>hello world</title>
+</head>
+<body>
+<a href="Friend1.html">
+<img src="billgates.jpg" alt="It's gates">
+</a>
+<a href="Friend2.html">
+<img src="satyanadella.jpg" alt="It's satya nadella">
+</a>
+</body>
+</html>
