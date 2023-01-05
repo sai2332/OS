@@ -1,0 +1,42 @@
+Program:
+<html>
+<head>
+<title>HTML5 Tags Demo</title>
+</head>
+<body>
+<header>
+<img src="aboutaec.jpg">
+</header>
+<main>
+<nav>
+<a href="#">HOME</a>&nbsp;&nbsp;&nbsp;
+<a href="#">ABOUT US</a>&nbsp;&nbsp;&nbsp;
+<a href="#">GOVERNING BODY</a>&nbsp;&nbsp;&nbsp;
+<a href="#">AUTONOMOUS</a>&nbsp;&nbsp;&nbsp;
+<a href="#">ACADEMICS</a>&nbsp;&nbsp;&nbsp;
+<a href="#">CONTACT US</a>&nbsp;&nbsp;&nbsp;
+</nav>
+<aside>
+<article>
+<p>Aditya Engineering College located at surampalem is a well versed
+college in East Godavari District.<br></p>
+</article>
+</aside>
+<figure>
+<img src="mickey.png">
+<figcaption>A wonderful creation of walt disney</figcapion>
+</figure>
+<section>
+IT department established in the year 2001 is striving hard for the well
+being of the students. Many leaders and achievers were produced from this
+department. </section>
+<div>
+HOD is the leader of the department is a hard working person  </diV>
+<p>Aditya is spending an overall amount of 25million <span
+style="color:red;">$</span> every year</p>
+</main>
+<footer>
+<p align="center">Copyright @Aditya Engineering Coolege, Surampalem</p>
+</footer>
+</body>
+</html>
