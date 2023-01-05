@@ -1,0 +1,112 @@
+Simple Slector Demo:
+<html>
+<head>
+<style type="text/css">
+p{
+font-style:Tahoma;
+font-size:40px;
+border:5px double #ccc;
+}
+</style>
+<body>
+<p>This is a paragraph</p<br>
+<p>All the paragraph's are displayed with the mentioned styles</p><br>
+</body>
+</html>
+
+Class Selctor Demo:
+<html>
+<head>
+<style type="text/css">
+p{
+font-style:Tahoma;
+font-size:40px;
+border:5px double #ccc;
+}
+p.redpara{ color:none;
+background-color:red;
+border:5px solid green;
+}
+</style>
+<body>
+<p>This is a paragraph</p<br>
+<p class="redpara">This paragraph is displayed with the mentioned styles</p><br>
+</body>
+</html>
+
+Id Selector Demo:
+<html>
+<head>
+<style type="text/css">
+#red{
+color:none;
+background-color:red;
+border:5px solid green;
+}
+</style>
+<body>
+<p id="red">This paragraph is displayed with the mentioned styles</p><br>
+<div id="red">This division is displayed wit mentioned styles</div><br>
+<section id="red">This section is dispalyed with the mentioned styles</section><br>
+</body>
+</html>
+
+Generic Slector Demo:
+<html>
+<head>
+<style type="text/css">
+.red{ color:
+none;
+background-color:red;
+border:5px solid green;
+}
+</style>
+<body>
+<p class="red">This paragraph is displayed with the mentioned styles</p><br>
+<div class="red">This division is displayed wit mentioned styles</div><br>
+<section class="red">This section is dispalyed with the mentioned styles</section><br></body>
+</html>
+
+Universal Slector Demo:
+<html>
+<head>
+<style type="text/css">
+*{ color:no
+ne;
+background-color:red;
+border:5px solid green;
+}
+</style>
+<body>
+<p >This paragraph is displayed with the mentioned styles</p><br>
+<div >This division is displayed wit mentioned styles</div><br>
+<section >This section is dispalyed with the mentioned styles</section><br>
+</body>
+</html>
+
+Attribute Selector Demo:
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+input[type=text]
+{width: 150px;
+display: block;
+margin-bottom: 10px;
+background-color: yellow;
+}
+input[type=button]
+{width: 120px;
+margin-left: 35px;
+display: block;
+}
+</style>
+</head>
+<body>
+<form name="input" action="" method="get">
+Firstname:<input type="text" name="Name" value="Peter" size="20">
+Lastname:<input type="text" name="Name" value="Griffin" size="20">
+<input type="button" value="Example Button">
+</form>
+</body>
+</html>
