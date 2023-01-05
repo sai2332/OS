@@ -1,0 +1,57 @@
+Program:
+<html>
+<head>
+<title>Formdemo</title>
+</head>
+<body>
+<table align="center">
+<caption="Formdemo">
+<form name="f1" method="get">
+<tr>
+<td>Username: </td>
+<td><input type="text" name="uname" size="10" maxlength="15"></td>
+</tr>
+<tr>
+<td>Password:</td>
+<td><input type="password" name="pwd" size="10" maxsize="15"></td>
+</tr>
+<tr>
+<td>Address:</td>
+<td><textarea name="ta" rows="5" cols="10"></textarea></td>
+</tr>
+<tr>
+<td>Languages known:</td>
+<td><input type="checkbox" name="c1" value="Te" checked>Telugu</br>
+<input type="checkbox" name="c2" value="Ta">Tamil</br>
+<input type="checkbox" name="c3" value="Hi">Hindi</br>
+<input type="checkbox" name="c4" value="En">English</br>
+</td>
+</tr>
+<tr>
+<td>Programming Proficiency:</td>
+<td>
+<input type="radio" name="r1" value="C">C</br>
+<input type="radio" name="r1" value="Java">Java</br>
+<input type="radio" name="r1" value="Python" checked>Python</br>
+<input type="radio" name="r1" value="PHP">PHP</br>
+</td>
+</tr>
+<tr>
+<td>Willing to work at:</td>
+<td>
+<select name="s1" multiple>
+<option value="Mu">Mumbai</option>
+<option value="ch" label="Chennai">Chennai</option>
+<option value="Hy">Hyderbad</option>
+<option value="viz" selected>Vizag</option>
+</select>
+</td>
+</tr>
+<tr><td colspan="2"><input type="submit" value="submit" >
+<input type="reset" value="reset">
+</td>
+</tr>
+</form>
+</table>
+</body>
+</html>
