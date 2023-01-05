@@ -1,0 +1,46 @@
+Program:
+Image.html
+<html>
+<head>
+<title>Clg logo</title>
+</head>
+<body>
+<img src="adityalogo.jfif" alt="aditya clg logo">
+</body>
+</html>
+Para.html
+<html>
+<head>
+<title>Aditya details</title>
+</head>
+<body>
+<h1>Aditya Engineering College was established in the 
+academic year 2001-02 under theaegis of Aditya Academy,
+Kakinada with the approval of AICTE and Affiliated to 
+JNTUwithanintake of 180 in three UG Courses in Engineering & Technology</h1>
+</body>
+</html>
+Link.html
+<html>
+<head>
+<title>Clg link</title>
+</head>
+<body>
+<a href="https://aec.edu.in">click on me</a>
+</body>
+</html>
+Main.html
+<html>
+<head>
+<title>frameset</title>
+</head>
+<frameset rows="50%,50%" border="50">
+<frame name="image" src="frameimg.html" noresize scrolling="yes">
+<frameset cols="50%,50%" border="50" frameborder="50">
+<frame name="paragraph" src="framep.html" noresize scrolling="yes">
+<frame name="link" src="framelink.html" scrolling="yes">
+</frameset>
+</frameset>
+<body>
+</body>
+</html>
