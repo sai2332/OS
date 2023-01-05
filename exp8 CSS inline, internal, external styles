@@ -1,0 +1,67 @@
+Inline CSS:
+<!DOCTYPE html>
+<html>
+<body>
+<h1 style="color:red;margin-left:40px;">Inline CSS is applied on this heading.</h1>
+<p>This paragraph is not affected.</p>
+</body>
+</html>
+
+Internal CSS:
+<html>
+<head>
+<style>
+.nav{
+background-color:yellow;
+list-syle-type:none;
+text-align:center;
+margin:0;
+padding:0;
+}
+.nav li{
+display:inline-block;
+font-size:20px;
+padding:20px;
+}
+</style>
+</head>
+<body>
+<ul class="nav">
+<li><a href="#home">Home</a></li>
+<li><a href="#about us">About Us</a></li>
+<li><a href="#achievements">Achievements</a></li>
+<li><a href="#clients">Clients</a></li>
+<li><a href="#contact us">Contact Us</a></li>
+</ul>
+</body>
+</html>
+
+
+External CSS:
+Style.css
+.nav{
+background-color:yellow;
+list-syle-type:none;
+text-align:center;
+margin:0;
+padding:0;
+}
+.nav
+li{ display:inline- block;font-size:20px;
+padding:20px;
+}
+External.html
+<html>
+<head>
+<link rel=”stylesheet” type=”text/css” href=”style.css”>
+</head>
+<body>
+<ul class="nav">
+<li><a href="#home">Home</a></li>
+<li><a href="#about us">About Us</a></li>
+<li><a href="#achievements">Achievements</a></li>
+<li><a href="#clients">Clients</a></li>
+<li><a href="#contact us">Contact Us</a></li>
+</ul>
+</body>
+</html>
